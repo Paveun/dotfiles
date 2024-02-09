@@ -1,5 +1,10 @@
 if status is-interactive
     # Commands to run in interactive sessions can go here
+    pokemon-colorscripts --random --no-title 
+end
+
+function fish_greeting
+    # echo "🐟"
 end
 
 # Created by `pipx` on 2023-12-13 23:25:56
