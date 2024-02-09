@@ -1,0 +1,65 @@
+# System
+fish
+fisher
+git
+nvim
+tmux
+stow
+flatpak
+parted
+htop
+bottom
+alacritty
+
+# Dev
+github-cli
+subversion
+python
+pipx
+ollama-cuda
+docker
+docker-compose
+visual-studio-code-bin
+
+# Media
+google-chrome
+spotify
+ncspot
+deluge
+deluge-gtk
+
+# Games
+steam
+xivlauncher-rb
+fflogs-uploader-appimage
+obs-studio
+
+# Social
+telegram-desktop
+webcord
+
+# Themes
+catppuccin-cursors-frappe
+catppuccin-gtk-theme-frappe
+catppuccin-konsole-theme-git
+
+# Fonts
+ttf-jetbrains-mono-nerd
+ttf-jetbrains-mono
+ttf-roboto
+
+# Other
+neofetch
+starship
+openvpn
+keepassxc
+lazygit
+
+
+# Reqs
+tree-sitter
+nodejs
+lazygit
+ripgrep
+xclip
+gdu
