@@ -15,7 +15,7 @@ alacritty
 github-cli
 subversion
 python
-pipx
+python-pipx
 miniconda3
 ollama-cuda
 docker

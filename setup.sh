@@ -15,6 +15,8 @@ rm -rf yay
 yay -S --needed $(cat packages.txt)
 flatpak remote-add --if-not-exists flathub https://flathub.org/repo/flathub.flatpakrepo
 flatpak install -y $(cat flatpak-packages.txt)
+pipx ensurepath
+pipx install $(cat pipx-packages.txt)
 
 # set defaults
 chsh -s $(which fish)
