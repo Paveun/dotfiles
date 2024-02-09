@@ -17,6 +17,7 @@ flatpak remote-add --if-not-exists flathub https://flathub.org/repo/flathub.flat
 flatpak install -y $(cat flatpak-packages.txt)
 pipx ensurepath
 pipx install $(cat pipx-packages.txt)
+fisher install $(cat fisher-packages.txt)
 
 # set defaults
 chsh -s $(which fish)

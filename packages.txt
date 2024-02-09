@@ -43,6 +43,8 @@ webcord
 catppuccin-cursors-frappe
 catppuccin-gtk-theme-frappe
 catppuccin-konsole-theme-git
+plasma5-theme-catppuccin
+sddm-catppuccin-git
 
 # Fonts
 ttf-jetbrains-mono-nerd
