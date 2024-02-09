@@ -16,6 +16,7 @@ github-cli
 subversion
 python
 pipx
+miniconda3
 ollama-cuda
 docker
 docker-compose
