@@ -1,3 +1,4 @@
 com.discordapp.Discord
 org.libreoffice.LibreOffice
 org.polymc.PolyMC
+com.spotify.Client

@@ -24,7 +24,6 @@ visual-studio-code-bin
 
 # Media
 google-chrome
-spotify
 ncspot
 deluge
 deluge-gtk
