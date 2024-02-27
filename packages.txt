@@ -50,6 +50,13 @@ ttf-jetbrains-mono-nerd
 ttf-jetbrains-mono
 ttf-roboto
 
+#hypr
+hyprland
+hyprpaper
+qt5ct-kde
+waybar
+wofi
+
 # Other
 neofetch
 starship
