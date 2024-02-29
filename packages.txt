@@ -56,7 +56,7 @@ starship
 openvpn
 keepassxc
 lazygit
-pokemon-colorscripts-git
+krabby-bin
 
 # Reqs
 tree-sitter

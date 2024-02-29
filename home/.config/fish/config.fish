@@ -1,6 +1,7 @@
 if status is-interactive
     # Commands to run in interactive sessions can go here
-    pokemon-colorscripts --random --no-title 
+    #pokemon-colorscripts --random --no-title 
+    krabby random --no-title
 end
 
 function fish_greeting
