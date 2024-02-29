@@ -27,5 +27,8 @@ mv ~/.config/nvim ~/.config/nvim.bak
 git clone --depth 1 https://github.com/AstroNvim/AstroNvim ~/.config/nvim
 git clone https://github.com/Paveun/astronvim_user ~/.config/nvim/lua/user
 
+# conda config
+conda config --set auto_activate_base false
+
 # link dotfiles
 stow home
