@@ -50,7 +50,7 @@ ttf-jetbrains-mono-nerd
 ttf-jetbrains-mono
 ttf-roboto
 
-#hypr
+# hypr
 hyprland
 hyprpaper
 qt5ct-kde
@@ -64,6 +64,7 @@ openvpn
 keepassxc
 lazygit
 krabby-bin
+proton-vpn-gtk-app
 
 # Reqs
 tree-sitter
