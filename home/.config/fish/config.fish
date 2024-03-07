@@ -15,6 +15,8 @@ set --path -x XDG_DATA_DIRS $XDG_DATA_DIRS
 
 set QT_QPA_PLATFORMTHEME qt6ct
 
+set ELECTRON_OZONE_PLATFORM_HINT auto
+
 starship init fish | source
 
 # >>> conda initialize >>>
