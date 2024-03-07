@@ -36,12 +36,6 @@ sddm-catppuccin-git
 ttf-jetbrains-mono-nerd
 ttf-jetbrains-mono
 ttf-roboto
-hyprland
-hyprpaper
-qt5ct-kde
-waybar
-wofi
-dunst
 neofetch
 starship
 openvpn

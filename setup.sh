@@ -19,6 +19,9 @@ pipx ensurepath
 pipx install $(cat pipx-packages.txt)
 fisher install $(cat fisher-packages.txt)
 
+# install hypr
+# yay -S --needed $(cat hypr-packages.txt)
+
 # set defaults
 chsh -s $(which fish)
 

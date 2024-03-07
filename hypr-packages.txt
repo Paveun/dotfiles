@@ -1,0 +1,8 @@
+hyprland
+hyprpaper
+qt5ct-kde
+qt6ct-kde
+waybar
+wofi
+dunst
+
